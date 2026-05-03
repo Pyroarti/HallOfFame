@@ -140,6 +140,16 @@
     "date_added": "2026-05-03T21:38:34.412287"
   },
   {
+    "title": "Stellaris",
+    "type": "game",
+    "rating": 8.0,
+    "year": 2016,
+    "notes": "",
+    "cover_path": "covers\\dc80cbcefd5b42d68316e3dde3a9a81c.jpg",
+    "id": "b1c29666-95e2-4df9-b2fc-6cefe41f8c12",
+    "date_added": "2026-05-03T22:19:54.475418"
+  },
+  {
     "title": "Rimworld",
     "type": "game",
     "rating": 8.0,
@@ -193,20 +203,10 @@
     "title": "What Remains of Edith Finch",
     "type": "game",
     "rating": null,
-    "year": null,
+    "year": 2017,
     "notes": "",
-    "cover_path": "",
+    "cover_path": "covers\\09846d0264304bfa8e7e96b3626735b6.jpg",
     "id": "94ef9f7d-808b-43f3-8a34-f18efac5f30a",
     "date_added": "2026-05-03T22:11:16.263386"
-  },
-  {
-    "title": "Stellaris",
-    "type": "game",
-    "rating": 8.0,
-    "year": 2016,
-    "notes": "",
-    "cover_path": "covers\\dc80cbcefd5b42d68316e3dde3a9a81c.jpg",
-    "id": "b1c29666-95e2-4df9-b2fc-6cefe41f8c12",
-    "date_added": "2026-05-03T22:19:54.475418"
   }
 ]
