@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Minecraft",
+    "type": "game",
+    "rating": 10.0,
+    "year": 2009,
+    "notes": "",
+    "cover_path": "covers\\3a04ea5cbf7a4d82a4e496070473c4b6.jpg",
+    "id": "d3c6392c-9c78-4744-8363-5e8670a68e0c",
+    "date_added": "2026-05-03T22:18:25.760611"
+  },
+  {
+    "title": "Detroit become human",
+    "type": "game",
+    "rating": 10.0,
+    "year": 2018,
+    "notes": "",
+    "cover_path": "covers\\d3146746c3724c7781beb16d2ef69b74.jpg",
+    "id": "24ec0f99-954d-4e80-ac02-c88ccb88b844",
+    "date_added": "2026-05-03T21:49:18.802525"
+  },
+  {
+    "title": "Red dead redemption 2",
+    "type": "game",
+    "rating": 10.0,
+    "year": 2018,
+    "notes": "",
+    "cover_path": "covers\\46fe7b2f1f4a48d0bbb5ea8a211124a2.jpg",
+    "id": "fe18eb1f-af42-4739-861c-aec4a7b55575",
+    "date_added": "2026-05-03T21:44:53.480726"
+  },
+  {
+    "title": "Slay the princess",
+    "type": "game",
+    "rating": 10.0,
+    "year": 2023,
+    "notes": "",
+    "cover_path": "covers\\078e09d9ad3a40af9a4c93f480311655.jpg",
+    "id": "a7b43fd8-5ebc-403b-9835-95a00b0ba45c",
+    "date_added": "2026-05-03T21:40:51.576619"
+  },
+  {
+    "title": "The witcher 3",
+    "type": "game",
+    "rating": 10.0,
+    "year": 2015,
+    "notes": "",
+    "cover_path": "covers\\59b860cd0c0b41ad8581c3c6c614ba5d.jpg",
+    "id": "0f85962c-7bc7-4e46-8d3c-409f42edc74c",
+    "date_added": "2026-05-03T21:39:35.856872"
+  },
+  {
+    "title": "Mass effect",
+    "type": "game",
+    "rating": 10.0,
+    "year": 2021,
+    "notes": "",
+    "cover_path": "covers\\52c4675970ac4b8bbf8229bf0bbbe875.jpg",
+    "id": "ad94fca0-497a-468d-819c-323ab7c9d6a6",
+    "date_added": "2026-05-03T21:15:59.126222"
+  },
+  {
+    "title": "Expedition 33",
+    "type": "game",
+    "rating": 10.0,
+    "year": 2025,
+    "notes": "Bästa spelet någonsin",
+    "cover_path": "covers\\ae67f7d1763c4eddb793f0739714fa5f.jpg",
+    "id": "3f8a4317-14d9-434a-b5f6-9a93f9ce8eb4",
+    "date_added": "2026-05-03T20:50:51.341800"
+  },
+  {
+    "title": "The walking dead",
+    "type": "game",
+    "rating": 9.0,
+    "year": 2017,
+    "notes": "",
+    "cover_path": "covers\\718eca1015fd4d0bb76a5cb1f552cafa.jpg",
+    "id": "6c2bd8d5-331e-4e53-9c26-f27232638b6c",
+    "date_added": "2026-05-03T22:17:20.649433"
+  },
+  {
+    "title": "What Remains of Edith Finch",
+    "type": "game",
+    "rating": 9.0,
+    "year": 2017,
+    "notes": "",
+    "cover_path": "covers\\03f5376487c841e2a091c5df27cfa1f7.jpg",
+    "id": "f24be9ec-f086-4707-8139-7f7ddcde13b8",
+    "date_added": "2026-05-03T22:10:48.785760"
+  },
+  {
+    "title": "Observation",
+    "type": "game",
+    "rating": 9.0,
+    "year": 2019,
+    "notes": "",
+    "cover_path": "covers\\48cea4f2a6c2444eb368c01aa64575e4.jpg",
+    "id": "369d9946-0253-4003-a397-4ed8bbc24140",
+    "date_added": "2026-05-03T21:44:15.172998"
+  },
+  {
+    "title": "kingdom come deliverance 2",
+    "type": "game",
+    "rating": 9.0,
+    "year": 2025,
+    "notes": "",
+    "cover_path": "covers\\3efe05c80a4d4e9da77b61158890e1e2.jpg",
+    "id": "b3425e2d-5062-4e93-9243-4aabfbb53ace",
+    "date_added": "2026-05-03T21:43:11.718690"
+  },
+  {
+    "title": "Disco elysium",
+    "type": "game",
+    "rating": 9.0,
+    "year": 2021,
+    "notes": "",
+    "cover_path": "covers\\e88fd595b2ae43fb892f9a83c17b519d.jpg",
+    "id": "e452b5dc-eaf9-4c56-aa6e-5e3ca9ed00bc",
+    "date_added": "2026-05-03T21:40:12.973900"
+  },
+  {
+    "title": "Death stranding",
+    "type": "game",
+    "rating": 9.0,
+    "year": 2019,
+    "notes": "",
+    "cover_path": "covers\\12010ca700f94019b8adc2b05e0814cf.jpg",
+    "id": "c479f64f-ed0f-4456-969f-6c5be768e465",
+    "date_added": "2026-05-03T21:39:01.482933"
+  },
+  {
+    "title": "Final fantasy VII",
+    "type": "game",
+    "rating": 9.0,
+    "year": 2020,
+    "notes": "",
+    "cover_path": "covers\\6fae948b517d4fafa6767959fd0bd7ab.jpg",
+    "id": "6e863f55-cdcb-47f3-b853-3278555746df",
+    "date_added": "2026-05-03T21:38:34.412287"
+  },
+  {
+    "title": "Rimworld",
+    "type": "game",
+    "rating": 8.0,
+    "year": 2016,
+    "notes": "",
+    "cover_path": "covers\\0bc901cd36e345108457cd60764c02ee.jpg",
+    "id": "6a906d0c-1e48-4011-8e13-10c53ff2bba0",
+    "date_added": "2026-05-03T22:19:32.844893"
+  },
+  {
+    "title": "Stories untold",
+    "type": "game",
+    "rating": 8.0,
+    "year": 2017,
+    "notes": "",
+    "cover_path": "covers\\f8ac92f8e7ac48e3ad86ee6e6f60376e.jpg",
+    "id": "67a5cda4-d303-4a32-957c-2b52ea9350d9",
+    "date_added": "2026-05-03T21:45:48.127865"
+  },
+  {
+    "title": "My time at sandrock",
+    "type": "game",
+    "rating": 8.0,
+    "year": 2022,
+    "notes": "",
+    "cover_path": "covers\\818b00770b9e49ab9f2856033dd79965.jpg",
+    "id": "e63e5229-12d3-4463-b02e-685265da1656",
+    "date_added": "2026-05-03T21:43:54.686947"
+  },
+  {
+    "title": "Horizon zero dawn",
+    "type": "game",
+    "rating": 8.0,
+    "year": 2017,
+    "notes": "",
+    "cover_path": "covers\\cb83b456bc4c4277a882c49b932ff265.jpg",
+    "id": "9a2d43a3-3b51-4b93-8f62-f93c631b431d",
+    "date_added": "2026-05-03T21:42:41.017351"
+  },
+  {
+    "title": "Heavy rain",
+    "type": "game",
+    "rating": 8.0,
+    "year": 2010,
+    "notes": "",
+    "cover_path": "covers\\e990554b49ea4219a3786930f9171f30.jpg",
+    "id": "f858a174-dba6-41b2-b1ec-806530eefa31",
+    "date_added": "2026-05-03T21:42:03.958489"
+  },
+  {
+    "title": "What Remains of Edith Finch",
+    "type": "game",
+    "rating": null,
+    "year": null,
+    "notes": "",
+    "cover_path": "",
+    "id": "94ef9f7d-808b-43f3-8a34-f18efac5f30a",
+    "date_added": "2026-05-03T22:11:16.263386"
+  },
+  {
+    "title": "Stellaris",
+    "type": "game",
+    "rating": 8.0,
+    "year": 2016,
+    "notes": "",
+    "cover_path": "covers\\dc80cbcefd5b42d68316e3dde3a9a81c.jpg",
+    "id": "b1c29666-95e2-4df9-b2fc-6cefe41f8c12",
+    "date_added": "2026-05-03T22:19:54.475418"
+  }
+]
