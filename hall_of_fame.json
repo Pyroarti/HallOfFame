@@ -1,5 +1,75 @@
 [
   {
+    "title": "Charlotte",
+    "type": "anime",
+    "rating": 10.0,
+    "year": 2015,
+    "notes": "",
+    "cover_path": "covers\\b1957ceb9e74435e867b321524af3f67.jpg",
+    "id": "e02f0c4e-178f-44db-a00b-eb2d8b449877",
+    "date_added": "2026-05-04T22:03:06.056945"
+  },
+  {
+    "title": "Angel beats",
+    "type": "anime",
+    "rating": 10.0,
+    "year": 2010,
+    "notes": "",
+    "cover_path": "covers\\3e5000960f6d40f7b5cb6efce5528e6c.jpg",
+    "id": "023405a4-c570-4cb4-b06b-008f5abf04fd",
+    "date_added": "2026-05-04T22:02:43.467989"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "type": "anime",
+    "rating": 10.0,
+    "year": 2009,
+    "notes": "",
+    "cover_path": "covers\\de87c294aabc4909a3bc835e67836206.jpg",
+    "id": "08fcc57e-1206-47f9-89f6-1e9477f805e8",
+    "date_added": "2026-05-04T22:01:56.804288"
+  },
+  {
+    "title": "Guilty crown",
+    "type": "anime",
+    "rating": 10.0,
+    "year": 2011,
+    "notes": "",
+    "cover_path": "covers\\ff32364e0ed54e8ab141901de9940ced.jpg",
+    "id": "b9b59f62-0477-43c8-bc0f-0109965e7e83",
+    "date_added": "2026-05-04T21:59:55.003114"
+  },
+  {
+    "title": "K knights",
+    "type": "anime",
+    "rating": 10.0,
+    "year": 2012,
+    "notes": "",
+    "cover_path": "covers\\e49ce21ca0b447488a4bdfba2abe33f3.jpg",
+    "id": "2d6ed0ae-0204-4b2d-9309-1852ba2423c6",
+    "date_added": "2026-05-04T21:59:26.803093"
+  },
+  {
+    "title": "Attack on titan",
+    "type": "anime",
+    "rating": 10.0,
+    "year": 2013,
+    "notes": "",
+    "cover_path": "covers\\ccddb90097bb4963b0fa30ad6b3ee227.jpg",
+    "id": "027a1c49-7866-4f7e-ac30-b7204ce98de9",
+    "date_added": "2026-05-04T21:58:35.142425"
+  },
+  {
+    "title": "Sword art online",
+    "type": "anime",
+    "rating": 10.0,
+    "year": 2012,
+    "notes": "",
+    "cover_path": "covers\\a2f945cc52cc423e865b87baca7206d5.jpg",
+    "id": "256c6b26-065b-498f-bfc6-7f9b62e15e2d",
+    "date_added": "2026-05-04T21:57:56.208187"
+  },
+  {
     "title": "Minecraft",
     "type": "game",
     "rating": 10.0,
@@ -68,6 +138,46 @@
     "cover_path": "covers\\ae67f7d1763c4eddb793f0739714fa5f.jpg",
     "id": "3f8a4317-14d9-434a-b5f6-9a93f9ce8eb4",
     "date_added": "2026-05-03T20:50:51.341800"
+  },
+  {
+    "title": "Log horizon",
+    "type": "anime",
+    "rating": 9.0,
+    "year": 2013,
+    "notes": "",
+    "cover_path": "covers\\b8c53fbefff14511a5a2f2faceec6177.jpg",
+    "id": "9a7fd75c-5d12-4d5e-ba13-07a9f55a91ed",
+    "date_added": "2026-05-04T22:04:37.987659"
+  },
+  {
+    "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
+    "type": "anime",
+    "rating": 9.0,
+    "year": 2015,
+    "notes": "",
+    "cover_path": "covers\\8f8e408c88864a778f876120cbf7e2ea.jpg",
+    "id": "a084c1ed-df9d-4996-bd95-ef758680e205",
+    "date_added": "2026-05-04T22:04:23.451443"
+  },
+  {
+    "title": "Accel world",
+    "type": "anime",
+    "rating": 9.0,
+    "year": 2012,
+    "notes": "",
+    "cover_path": "covers\\d0b33a4caf364b6dbe9f341a80a2282f.jpg",
+    "id": "e37eefb7-79b9-4a82-bc5f-30cb0a519798",
+    "date_added": "2026-05-04T22:02:21.393158"
+  },
+  {
+    "title": "Black bullet",
+    "type": "anime",
+    "rating": 9.0,
+    "year": 2014,
+    "notes": "",
+    "cover_path": "covers\\f9e21917d4e2428d9c213624a5ef90b1.jpg",
+    "id": "5f2ecce5-8aae-44e2-ab8c-dd36b4baff3c",
+    "date_added": "2026-05-04T21:59:41.366883"
   },
   {
     "title": "The walking dead",
@@ -140,6 +250,26 @@
     "date_added": "2026-05-03T21:38:34.412287"
   },
   {
+    "title": "Is it wrong to pick up girls in a dungeon",
+    "type": "anime",
+    "rating": 8.0,
+    "year": 2015,
+    "notes": "",
+    "cover_path": "covers\\65dc784491fb4a5996dca0a7691f60cb.jpg",
+    "id": "03e3d15f-a4bf-43db-b75c-0463bc2b4262",
+    "date_added": "2026-05-04T22:03:48.291032"
+  },
+  {
+    "title": "No game no life",
+    "type": "anime",
+    "rating": 8.0,
+    "year": 2014,
+    "notes": "",
+    "cover_path": "covers\\fa685edea9834540a47989f8264c50dd.jpg",
+    "id": "ed51ce7b-ee8d-4607-b9cb-7b64b2c1f9a0",
+    "date_added": "2026-05-04T22:00:34.544023"
+  },
+  {
     "title": "Stellaris",
     "type": "game",
     "rating": 8.0,
@@ -200,13 +330,14 @@
     "date_added": "2026-05-03T21:42:03.958489"
   },
   {
-    "title": "What Remains of Edith Finch",
+    "title": "test",
     "type": "game",
     "rating": null,
-    "year": 2017,
+    "year": null,
     "notes": "",
-    "cover_path": "covers\\09846d0264304bfa8e7e96b3626735b6.jpg",
-    "id": "94ef9f7d-808b-43f3-8a34-f18efac5f30a",
-    "date_added": "2026-05-03T22:11:16.263386"
+    "cover_path": "",
+    "To_be_play_or_watched": 1,
+    "id": "8ae6c049-68dc-49dc-9de2-20229a0686dc",
+    "date_added": "2026-05-04T22:52:53.594005"
   }
 ]

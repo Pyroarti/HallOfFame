@@ -483,6 +483,9 @@ class EntryDialog(ctk.CTkToplevel):
         ctk.CTkRadioButton(type_frame, text="🌸 Anime", variable=self.type_var,
                            value="anime").pack(side="left")
 
+        self.to_be_played_watched = ctk.CTkCheckBox(type_frame, text="To be played/watched?")
+        self.to_be_played_watched.pack()
+
         ctk.CTkLabel(container, text="Betyg (0–10) — valfritt", anchor="w",
                      font=("Helvetica", 12, "bold")).pack(fill="x")
         self.rating_entry = ctk.CTkEntry(container, height=36)
@@ -613,6 +616,7 @@ class EntryDialog(ctk.CTkToplevel):
                 messagebox.showwarning("Fel", "År måste vara ett heltal.",
                                        parent=self)
                 return
+        to_be_played_watched_value = self.to_be_played_watched.get()
 
         data = {
             "title": title,
@@ -621,6 +625,7 @@ class EntryDialog(ctk.CTkToplevel):
             "year": year,
             "notes": self.notes_text.get("1.0", "end").strip(),
             "cover_path": self.cover_path,
+            "To_be_play_or_watched": to_be_played_watched_value
         }
         self.on_save(data)
         self.destroy()
