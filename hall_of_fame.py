@@ -689,6 +689,13 @@ class Card(ctk.CTkFrame):
                      text_color=COLORS["text_dim"], anchor="w"
                      ).pack(fill="x", padx=12, pady=(0, 10))
 
+        if self.entry.get("notes") is not None:
+            ctk.CTkLabel(self, text=self.entry['notes'],
+                     font=("Helvetica", 16),
+                     text_color=COLORS["text_dim"], anchor="w"
+                     ).pack(fill="x", padx=12, pady=(0, 10))
+
+
     def _placeholder(self, parent):
         emoji = "🎮" if self.entry.get("type") == "game" else "🌸"
         ctk.CTkLabel(parent, text=emoji, font=("Helvetica", 60)).pack(expand=True)

@@ -330,14 +330,14 @@
     "date_added": "2026-05-03T21:42:03.958489"
   },
   {
-    "title": "test",
+    "title": "Until then",
     "type": "game",
-    "rating": null,
-    "year": null,
-    "notes": "",
-    "cover_path": "",
-    "To_be_play_or_watched": 1,
-    "id": "8ae6c049-68dc-49dc-9de2-20229a0686dc",
-    "date_added": "2026-05-04T22:52:53.594005"
+    "rating": 10.0,
+    "year": 2024,
+    "notes": "Enough to make a grown man cry",
+    "cover_path": "covers\\24f886fa38e94345b668bbbf2fab316a.jpg",
+    "To_be_play_or_watched": 0,
+    "id": "02ccff73-c192-4f90-98eb-ad189f9419a6",
+    "date_added": "2026-06-29T22:45:30.858226"
   }
 ]
